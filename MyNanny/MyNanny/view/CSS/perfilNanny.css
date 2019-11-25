@@ -1,0 +1,19 @@
+body{
+	background-image: linear-gradient(#891094, #17a2b8);
+}
+
+header{
+	background-color: #891094;
+}
+
+#perfilNanny .container{
+	background-color: #DFE7AA;
+}
+
+#perfilNanny .container #perfilNanny-comentarios #perfilNanny-caja{
+	background-color: #ECECEC;
+}
+
+footer{
+	background-color: #17a2b8;
+}

@@ -1,0 +1,15 @@
+body{
+	background-image: linear-gradient(#891094, #17a2b8);  
+}
+
+header{
+	background-color: #891094;
+}
+
+#aboutUs .container #aboutUs-texto{
+	background-color: #fffdde;
+}
+
+footer{
+	background-color: #17a2b8;
+}
